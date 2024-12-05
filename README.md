@@ -4,8 +4,7 @@ I love building User Interfaces.
 
 ### Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Creating my portfolio website 
-- 🌱 I’m currently learning Nextjs 
+-  my [portfolio website](https://falolafavour.vercel.app/) 
 - 👯 I’m looking to collaborate on new projects 
 - 🤔 I’m looking for help with getting a frontend developer role 
 - 💬 Ask me about projects Ideas and new technologies 
