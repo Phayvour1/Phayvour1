@@ -2,7 +2,7 @@
 #### Frontend Developer
 I love building User Interfaces.
 
-### Skills: REACT / JS / HTML / CSS
+### Skills: NEXT / REACT / JS / HTML / CSS
 
 -  my [portfolio website](https://falolafavour.vercel.app/) 
 - 👯 I’m looking to collaborate on new projects 
